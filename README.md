@@ -54,5 +54,5 @@ Helper scripts are provided for downloading the Bravo site list and installing v
 This analysis has only been tested on Ubuntu 18.04 with Python (>=3.6).  
 
 ## License
-The appropriate license for this code is currently under consideration. 
+This code is dual-licensed. See the [license](LICENSE.md) for further details. 
 
