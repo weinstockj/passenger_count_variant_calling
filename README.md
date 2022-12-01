@@ -56,3 +56,4 @@ This analysis has only been tested on Ubuntu 18.04 with Python (>=3.6).
 ## License
 This code is dual-licensed. See the [license](LICENSE.md) for further details. 
 
+Copyright University of Michigan. 
