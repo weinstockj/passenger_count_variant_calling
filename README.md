@@ -30,8 +30,10 @@ This file is primarly used to subset the CHIP carriers to those with a single dr
 
 For the variant calling itself, some secondary files are needed:
  1. "bravo-dbsnp-all.bcf" A BCF of the TOPMed Bravo sitelist of pass variants to exclude. See [here](https://bravo.sph.umich.edu/freeze8/hg38/downloads) for how to download this file. 
- 2. A file of low complexity regions (bed/mdust.bed/gz), available from UCSC
- 3. A file of segmental dupliations (bed/genomicSuperDups.bed), availahle from UCSC
+ 2. A file of low complexity regions (bed/mdust.bed/gz)
+ 3. A file of segmental dupliations (bed/genomicSuperDups.bed), available from UCSC
+
+ For convenience, files 2. and 3. are included in a `bed` subdirectory. 
 
  ## Python (>= 3.6) dependencies
  1. pandas
