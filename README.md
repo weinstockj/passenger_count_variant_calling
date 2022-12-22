@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/501774633.svg)](https://zenodo.org/badge/latestdoi/501774633)
+
 # Passenger count variant calling
 
 Below is the passenger count variant calling procedure that was developed for [Clonal hematopoiesis is driven by aberrant activation of TCL1A](https://www.biorxiv.org/content/10.1101/2021.12.10.471810v1). 
